@@ -44,7 +44,6 @@ My areas of interest include Vision Transformers, CNN architectures, medical ima
 - **Customer Churn Analysis — BCG (PowerCo)** — End-to-end data analysis and Random Forest modelling; reported 85% accuracy.
 - **Sentiment Analysis of Market News** — NLP pipeline for sentiment classification of commodity-market news articles.
 
-> Replace each project title with a link to its actual public GitHub repository once it is uploaded.
 
 ## Research & Publication
 
